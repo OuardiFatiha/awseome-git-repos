@@ -22,7 +22,14 @@ Here is some links of the popular github repos that I have gathered from HackerT
 
 ## Hacking
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking?ref=HackerTabExtension&fbclid=IwAR0p-9vvUOjsEDxMIqyRpK36tflBBts2PQV27TvwR04_u5bBJ42A4leBG9k)
+- [Hacking tool](https://github.com/Z4nzu/hackingtool?ref=HackerTabExtension&fbclid=IwAR1d5-HxdAqED2zzeGACpmV-idRDQ20Om9fzuIr2CUXwofUYxIuPlaIhc4I)
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE?ref=HackerTabExtension&fbclid=IwAR2Pwq8UDIFF51LSZJ4noFGSwa8kZFWlU_225l2AeaqSYs_0f7A6Jxi9wnY)
 
 ## Social media
 - [SnapChat Clone](https://github.com/TowhidKashem/snapchat-clone?ref=HackerTabExtension&fbclid=IwAR33cjCxKaarDcDEdgGeqkZLk9uPKQC6tWAv8JsY2fmntH-mPsQ9T723R0o)
 
+## Academic 
+- [Papers-we-love ](https://github.com/papers-we-love/papers-we-love?ref=HackerTabExtension&fbclid=IwAR2EoLzS_kAp2CeI-nn_SITMkOkjY6HevrOfVDQsNnTSoT_a7JWkxW7m--M)
+
+## Others
+- [Developer Handbook](https://github.com/apptension/developer-handbook?ref=HackerTabExtension&fbclid=IwAR2KSDo7PImokasMK2q2pAevCAwvrC_tpD471wXdcAahMFnS6L1Jf9jtUYs)
