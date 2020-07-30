@@ -32,7 +32,12 @@ Here is some links of the popular github repos that I have gathered from HackerT
 ## Web
 - [responsively-app ](https://github.com/manojVivek/responsively-app?ref=HackerTabExtension&fbclid=IwAR3vFwlYW5Ef1n07evXi8517XhY4Bz6g3M-mE5jg0bIZvaqoF7TliO2DCOI)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms?ref=HackerTabExtension&fbclid=IwAR13l0uxFjCOaOJRWcZExPwxE9sZyeU1Quuqengu6T2g-1RLnKN5MOvHGcM)
+- [Laravel in Marrocan dialect](https://brightcoding.teachable.com/p/laravel-darija-en-2019-pour-les-debutants-et-les-professionnels?fbclid=IwAR3ieX7xgeuaMITIsonJ_QIFq2PJ-h4OdrXsB7lrZDWLptlD7JZzToCKEss)
 
+## Algorithms
+- [Algorithms in C](https://github.com/TheAlgorithms/C?ref=HackerTabExtension&fbclid=IwAR2TG7dqtchrez6ZraYmw-iVN18_ukhuVyIDKLv-mvPgrzfvcaC9DlBZc10)
+- [Algorithms in C++](https://github.com/TheAlgorithms/C-Plus-Plus?ref=HackerTabExtension&fbclid=IwAR1hrOPOIqfBLMJOspRxGLmCMYubPV9xHEPXrf_R_TRtHTt7AiPtUUA87Og)
+- [Algorithms in Python](https://github.com/TheAlgorithms/Python?ref=HackerTabExtension&fbclid=IwAR2HYcwyQ2uDodSYTNc79DXXXiO_4tGRLM9pvfFWOtIBXS4UvdYJw2b7H0I)
 
 ## Social media
 - [SnapChat Clone](https://github.com/TowhidKashem/snapchat-clone?ref=HackerTabExtension&fbclid=IwAR33cjCxKaarDcDEdgGeqkZLk9uPKQC6tWAv8JsY2fmntH-mPsQ9T723R0o)
