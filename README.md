@@ -1,10 +1,10 @@
 # awseome-git-repos
 Here is some links of the popular github repos that I have gathered from HackerTabExtension and other places.
 
-## Android
+## Mobile
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode?ref=HackerTabExtension) 
 
-## Reiews
+## Documentation
 - [Google's Engineering Practices documentation](https://google.github.io/eng-practices/review/reviewer/?fbclid=IwAR3OF_YVMtI7xsXBlfrayAchtbpcqy9tsAYawo0UfLLaz4O8D45mH2eovc8)
 
 ## CVS
@@ -24,6 +24,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [Hacking tool](https://github.com/Z4nzu/hackingtool?ref=HackerTabExtension&fbclid=IwAR1d5-HxdAqED2zzeGACpmV-idRDQ20Om9fzuIr2CUXwofUYxIuPlaIhc4I)
 - [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE?ref=HackerTabExtension&fbclid=IwAR2Pwq8UDIFF51LSZJ4noFGSwa8kZFWlU_225l2AeaqSYs_0f7A6Jxi9wnY)
 - [Practical-Ethical-Hacking-Resources](https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources?ref=HackerTabExtension&fbclid=IwAR12ivjsKlTE309Igx0-yoohAc-WSNqpkER_0DaVBjKvQj7xsy94GKjR7Qg)
+- [ The-Art-of-Hacking ](https://github.com/The-Art-of-Hacking/h4cker?ref=HackerTabExtension&fbclid=IwAR1Q0zUJdgpRwBqy45j7qk8tK6rqtQzja7_Cflaqbandj-EfC_q-DpfU1Hc)
 
 ## AI
 - [Books for Machine Learning, Deep Learning, and related topics](https://github.com/loveunk/Deep-learning-books?ref=HackerTabExtension&fbclid=IwAR2-cYl37yscNH77O3_LBxzlx524L2FukMlelpjuFYZLiEpKw5870kDhagg)
@@ -34,6 +35,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms?ref=HackerTabExtension&fbclid=IwAR13l0uxFjCOaOJRWcZExPwxE9sZyeU1Quuqengu6T2g-1RLnKN5MOvHGcM)
 - [Laravel in Marrocan dialect](https://brightcoding.teachable.com/p/laravel-darija-en-2019-pour-les-debutants-et-les-professionnels?fbclid=IwAR3ieX7xgeuaMITIsonJ_QIFq2PJ-h4OdrXsB7lrZDWLptlD7JZzToCKEss)
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted?ref=HackerTabExtension&fbclid=IwAR0UFuCjsIyYxxK8XtE3DRY2ybQ3XHu7jkWmrqTr5Le_Hh3uhfc78vuuZxU)
+- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native?ref=HackerTabExtension&fbclid=IwAR0XjK7VHVEX8Nwvf-FJDLNvHc8oWJg2Yn3XBmqEiu9tupiK9kdmrSMBKsk)
 
 ## Algorithms
 - [Algorithms in C](https://github.com/TheAlgorithms/C?ref=HackerTabExtension&fbclid=IwAR2TG7dqtchrez6ZraYmw-iVN18_ukhuVyIDKLv-mvPgrzfvcaC9DlBZc10)
@@ -55,9 +57,12 @@ Here is some links of the popular github repos that I have gathered from HackerT
 
 ## Articles 
 - [5 websites a computer science student should know](https://medium.com/ieee-ensias-student-branch/5-websites-a-computer-science-student-should-know-f235dbc03131)
+- [Your Ultimate Learning Path to Become a Data Scientist and Machine Learning Expert in 2020](https://www.analyticsvidhya.com/blog/2020/01/learning-path-data-scientist-machine-learning-2020/?fbclid=IwAR0z3H-jtve-tE1rTxRp2ZZ-XECuJLhIGX0jhERDamsD6g0jnPGhwU-1JLo)
 
 ## Others
 - [Developer Handbook](https://github.com/apptension/developer-handbook?ref=HackerTabExtension&fbclid=IwAR2KSDo7PImokasMK2q2pAevCAwvrC_tpD471wXdcAahMFnS6L1Jf9jtUYs)
 - [Awesome Courses](https://github.com/prakhar1989/awesome-courses?ref=HackerTabExtension&fbclid=IwAR37leVm1-nt0Do-6Kgfa91AoLcEVjr9aegIMjkorvV3jtPcz5_eqPri038)
 - [Linux Basics for Hackers](http://93.174.95.29/main/0BBB043D0C62458A868DEB6FF34778A1?fbclid=IwAR2gLdu_u9rMDIn2yzL9u6XsRoaJJOIGAmae_JHakyPwcwEZfkouYM8YoZ4)
+- [opensource.guide](https://github.com/github/opensource.guide?ref=HackerTabExtension&fbclid=IwAR26a5Ve9PbjH3YkczMSGDGvVeZyItVWZ4KrSn9JoaLAQy-0SqxgXFxta2Y)
+- [app-ideas](https://github.com/florinpop17/app-ideas?ref=HackerTabExtension&fbclid=IwAR3qGpXDEi3D5OvoK0a0fwi2xF0b1Z5xiiXJcDE_LTSOzfuoB9CMBT9_l0s)
 
