@@ -30,6 +30,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 ## AI
 - [Books for Machine Learning, Deep Learning, and related topics](https://github.com/loveunk/Deep-learning-books?ref=HackerTabExtension&fbclid=IwAR2-cYl37yscNH77O3_LBxzlx524L2FukMlelpjuFYZLiEpKw5870kDhagg)
 - [ML-From-Scratch ](https://github.com/eriklindernoren/ML-From-Scratch?ref=HackerTabExtension&fbclid=IwAR2AkNA8JKlNBCVtKw8rzr8dpHdxVqxDETapd7P1Ur47zdCnyfClXnJm2JQ)
+- [NLP](https://github.com/huggingface/nlp?ref=HackerTabExtension)
 
 ## Web
 - [responsively-app ](https://github.com/manojVivek/responsively-app?ref=HackerTabExtension&fbclid=IwAR3vFwlYW5Ef1n07evXi8517XhY4Bz6g3M-mE5jg0bIZvaqoF7TliO2DCOI)
