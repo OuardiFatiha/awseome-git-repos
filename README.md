@@ -3,6 +3,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 
 ## Mobile
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode?ref=HackerTabExtension) 
+- [awesomefluttertips](https://github.com/erluxman/awesomefluttertips?ref=HackerTabExtension)
 
 ## Documentation
 - [Google's Engineering Practices documentation](https://google.github.io/eng-practices/review/reviewer/?fbclid=IwAR3OF_YVMtI7xsXBlfrayAchtbpcqy9tsAYawo0UfLLaz4O8D45mH2eovc8)
