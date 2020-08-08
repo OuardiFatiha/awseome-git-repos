@@ -39,6 +39,8 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted?ref=HackerTabExtension&fbclid=IwAR0UFuCjsIyYxxK8XtE3DRY2ybQ3XHu7jkWmrqTr5Le_Hh3uhfc78vuuZxU)
 - [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native?ref=HackerTabExtension&fbclid=IwAR0XjK7VHVEX8Nwvf-FJDLNvHc8oWJg2Yn3XBmqEiu9tupiK9kdmrSMBKsk)
 - [whatthefuck.is:An opinionated glossary of computer science terms for front-end developers.](https://github.com/gaearon/whatthefuck.is?ref=HackerTabExtension)
+- [Javascript-Essentials ](https://github.com/LetsUpgrade/Javascript-Essentials?ref=HackerTabExtension)
+- [node-react-ecommerce ](https://github.com/basir/node-react-ecommerce?ref=HackerTabExtension)
 
 ## Algorithms
 - [Algorithms in C](https://github.com/TheAlgorithms/C?ref=HackerTabExtension&fbclid=IwAR2TG7dqtchrez6ZraYmw-iVN18_ukhuVyIDKLv-mvPgrzfvcaC9DlBZc10)
