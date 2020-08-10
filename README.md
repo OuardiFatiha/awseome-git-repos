@@ -31,6 +31,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [Books for Machine Learning, Deep Learning, and related topics](https://github.com/loveunk/Deep-learning-books?ref=HackerTabExtension&fbclid=IwAR2-cYl37yscNH77O3_LBxzlx524L2FukMlelpjuFYZLiEpKw5870kDhagg)
 - [ML-From-Scratch ](https://github.com/eriklindernoren/ML-From-Scratch?ref=HackerTabExtension&fbclid=IwAR2AkNA8JKlNBCVtKw8rzr8dpHdxVqxDETapd7P1Ur47zdCnyfClXnJm2JQ)
 - [NLP](https://github.com/huggingface/nlp?ref=HackerTabExtension)
+- [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks?ref=HackerTabExtension&fbclid=IwAR0iM9HOBZhUP2i_zx_ODDA2jhKOh1UPhrUiXb0RnNNI1gMhf7d7CyYh-P8)
 
 ## Web
 - [responsively-app ](https://github.com/manojVivek/responsively-app?ref=HackerTabExtension&fbclid=IwAR3vFwlYW5Ef1n07evXi8517XhY4Bz6g3M-mE5jg0bIZvaqoF7TliO2DCOI)
@@ -41,6 +42,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [whatthefuck.is:An opinionated glossary of computer science terms for front-end developers.](https://github.com/gaearon/whatthefuck.is?ref=HackerTabExtension)
 - [Javascript-Essentials ](https://github.com/LetsUpgrade/Javascript-Essentials?ref=HackerTabExtension)
 - [node-react-ecommerce ](https://github.com/basir/node-react-ecommerce?ref=HackerTabExtension)
+- [Front-end Challenges](https://github.com/felipefialho/frontend-challenges?ref=HackerTabExtension&fbclid=IwAR2v-6GDU3j7gASDQWNJ-sKCQ58SS0WSUrwKimg2gLNGGyXmPNJgAimA7Xk)
 
 ## Algorithms
 - [Algorithms in C](https://github.com/TheAlgorithms/C?ref=HackerTabExtension&fbclid=IwAR2TG7dqtchrez6ZraYmw-iVN18_ukhuVyIDKLv-mvPgrzfvcaC9DlBZc10)
@@ -70,4 +72,5 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [Linux Basics for Hackers](http://93.174.95.29/main/0BBB043D0C62458A868DEB6FF34778A1?fbclid=IwAR2gLdu_u9rMDIn2yzL9u6XsRoaJJOIGAmae_JHakyPwcwEZfkouYM8YoZ4)
 - [opensource.guide](https://github.com/github/opensource.guide?ref=HackerTabExtension&fbclid=IwAR26a5Ve9PbjH3YkczMSGDGvVeZyItVWZ4KrSn9JoaLAQy-0SqxgXFxta2Y)
 - [app-ideas](https://github.com/florinpop17/app-ideas?ref=HackerTabExtension&fbclid=IwAR3qGpXDEi3D5OvoK0a0fwi2xF0b1Z5xiiXJcDE_LTSOzfuoB9CMBT9_l0s)
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job?ref=HackerTabExtension&fbclid=IwAR3LlPzON_3knGh52qUQL-4cz75gzuA-JLafmVE4h2BcD_-jk2uX-V5mDGM)
 
