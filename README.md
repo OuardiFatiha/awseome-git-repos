@@ -32,6 +32,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [ML-From-Scratch ](https://github.com/eriklindernoren/ML-From-Scratch?ref=HackerTabExtension&fbclid=IwAR2AkNA8JKlNBCVtKw8rzr8dpHdxVqxDETapd7P1Ur47zdCnyfClXnJm2JQ)
 - [NLP](https://github.com/huggingface/nlp?ref=HackerTabExtension)
 - [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks?ref=HackerTabExtension&fbclid=IwAR0iM9HOBZhUP2i_zx_ODDA2jhKOh1UPhrUiXb0RnNNI1gMhf7d7CyYh-P8)
+- [applied-ml](https://github.com/rstudio-conf-2020/applied-ml?ref=HackerTabExtension&fbclid=IwAR1DxQ-RMmIc4kxN-U41QhK4GvnBCi6EQTGhT2CIGszdYtgzbjHrCdbYoh4)
 
 ## Web
 - [responsively-app ](https://github.com/manojVivek/responsively-app?ref=HackerTabExtension&fbclid=IwAR3vFwlYW5Ef1n07evXi8517XhY4Bz6g3M-mE5jg0bIZvaqoF7TliO2DCOI)
@@ -43,6 +44,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [Javascript-Essentials ](https://github.com/LetsUpgrade/Javascript-Essentials?ref=HackerTabExtension)
 - [node-react-ecommerce ](https://github.com/basir/node-react-ecommerce?ref=HackerTabExtension)
 - [Front-end Challenges](https://github.com/felipefialho/frontend-challenges?ref=HackerTabExtension&fbclid=IwAR2v-6GDU3j7gASDQWNJ-sKCQ58SS0WSUrwKimg2gLNGGyXmPNJgAimA7Xk)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap?ref=HackerTabExtension&fbclid=IwAR22VHgJQ6KqRJL9LtBv3w0bpTDeOY5knl-wdTshoxOfLY-9h52dHhLbaRM)
 
 ## Algorithms
 - [Algorithms in C](https://github.com/TheAlgorithms/C?ref=HackerTabExtension&fbclid=IwAR2TG7dqtchrez6ZraYmw-iVN18_ukhuVyIDKLv-mvPgrzfvcaC9DlBZc10)
@@ -66,6 +68,9 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [5 websites a computer science student should know](https://medium.com/ieee-ensias-student-branch/5-websites-a-computer-science-student-should-know-f235dbc03131)
 - [Your Ultimate Learning Path to Become a Data Scientist and Machine Learning Expert in 2020](https://www.analyticsvidhya.com/blog/2020/01/learning-path-data-scientist-machine-learning-2020/?fbclid=IwAR0z3H-jtve-tE1rTxRp2ZZ-XECuJLhIGX0jhERDamsD6g0jnPGhwU-1JLo)
 
+## Apis
+- [public-apis](https://github.com/public-apis/public-apis?ref=HackerTabExtension&fbclid=IwAR1ns-Q6LoIgnOtrMhcRth5doKQlN_sZ6dZ4Musn8l0p7Mh6PpeCgIcuFlc)
+
 ## Others
 - [Developer Handbook](https://github.com/apptension/developer-handbook?ref=HackerTabExtension&fbclid=IwAR2KSDo7PImokasMK2q2pAevCAwvrC_tpD471wXdcAahMFnS6L1Jf9jtUYs)
 - [Awesome Courses](https://github.com/prakhar1989/awesome-courses?ref=HackerTabExtension&fbclid=IwAR37leVm1-nt0Do-6Kgfa91AoLcEVjr9aegIMjkorvV3jtPcz5_eqPri038)
@@ -73,4 +78,5 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [opensource.guide](https://github.com/github/opensource.guide?ref=HackerTabExtension&fbclid=IwAR26a5Ve9PbjH3YkczMSGDGvVeZyItVWZ4KrSn9JoaLAQy-0SqxgXFxta2Y)
 - [app-ideas](https://github.com/florinpop17/app-ideas?ref=HackerTabExtension&fbclid=IwAR3qGpXDEi3D5OvoK0a0fwi2xF0b1Z5xiiXJcDE_LTSOzfuoB9CMBT9_l0s)
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job?ref=HackerTabExtension&fbclid=IwAR3LlPzON_3knGh52qUQL-4cz75gzuA-JLafmVE4h2BcD_-jk2uX-V5mDGM)
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?ref=HackerTabExtension&fbclid=IwAR0Vyzr6rJ57ghsaVBSMfL_wLDdVfKultB0ztEr9EuvjnR9oJjEApLGauYE)
 
