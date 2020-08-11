@@ -33,6 +33,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [NLP](https://github.com/huggingface/nlp?ref=HackerTabExtension)
 - [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks?ref=HackerTabExtension&fbclid=IwAR0iM9HOBZhUP2i_zx_ODDA2jhKOh1UPhrUiXb0RnNNI1gMhf7d7CyYh-P8)
 - [applied-ml](https://github.com/rstudio-conf-2020/applied-ml?ref=HackerTabExtension&fbclid=IwAR1DxQ-RMmIc4kxN-U41QhK4GvnBCi6EQTGhT2CIGszdYtgzbjHrCdbYoh4)
+- [Awful AI](https://github.com/daviddao/awful-ai?ref=HackerTabExtension&fbclid=IwAR083tBb1E8io6qY8RHY2RjWWkVFOGYUg3uZe1S0Ew7m5bya5dVb953zDt4)
 
 ## Web
 - [responsively-app ](https://github.com/manojVivek/responsively-app?ref=HackerTabExtension&fbclid=IwAR3vFwlYW5Ef1n07evXi8517XhY4Bz6g3M-mE5jg0bIZvaqoF7TliO2DCOI)
@@ -45,6 +46,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [node-react-ecommerce ](https://github.com/basir/node-react-ecommerce?ref=HackerTabExtension)
 - [Front-end Challenges](https://github.com/felipefialho/frontend-challenges?ref=HackerTabExtension&fbclid=IwAR2v-6GDU3j7gASDQWNJ-sKCQ58SS0WSUrwKimg2gLNGGyXmPNJgAimA7Xk)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap?ref=HackerTabExtension&fbclid=IwAR22VHgJQ6KqRJL9LtBv3w0bpTDeOY5knl-wdTshoxOfLY-9h52dHhLbaRM)
+- [clean-code-javascript ](https://github.com/ryanmcdermott/clean-code-javascript?ref=HackerTabExtension&fbclid=IwAR0s2Wcq0wvhIkjAhKclycnpHPvPmJ5SkQ-HmJtR5FQgBUoiPMPeun4ns3c)
 
 ## Algorithms
 - [Algorithms in C](https://github.com/TheAlgorithms/C?ref=HackerTabExtension&fbclid=IwAR2TG7dqtchrez6ZraYmw-iVN18_ukhuVyIDKLv-mvPgrzfvcaC9DlBZc10)
@@ -79,4 +81,5 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [app-ideas](https://github.com/florinpop17/app-ideas?ref=HackerTabExtension&fbclid=IwAR3qGpXDEi3D5OvoK0a0fwi2xF0b1Z5xiiXJcDE_LTSOzfuoB9CMBT9_l0s)
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job?ref=HackerTabExtension&fbclid=IwAR3LlPzON_3knGh52qUQL-4cz75gzuA-JLafmVE4h2BcD_-jk2uX-V5mDGM)
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?ref=HackerTabExtension&fbclid=IwAR0Vyzr6rJ57ghsaVBSMfL_wLDdVfKultB0ztEr9EuvjnR9oJjEApLGauYE)
+- [awesome](https://github.com/sindresorhus/awesome?ref=HackerTabExtension&fbclid=IwAR3V9dyz502wC3tD4AT2ii9moP8nWNjoe__MGhj2Un7kfq4mO0C1uHd1x0A)
 
