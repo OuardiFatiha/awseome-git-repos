@@ -74,6 +74,9 @@ Here is some links of the popular github repos that I have gathered from HackerT
 ## Apis
 - [public-apis](https://github.com/public-apis/public-apis?ref=HackerTabExtension&fbclid=IwAR1ns-Q6LoIgnOtrMhcRth5doKQlN_sZ6dZ4Musn8l0p7Mh6PpeCgIcuFlc)
 
+## Operating systems
+- [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software?ref=HackerTabExtension&fbclid=IwAR1v47awYVMekGCPHlQFHAF2fkVAV6hTO3-0UEMyPUjOYqnT14-DfOZMxBw)
+
 ## Others
 - [Developer Handbook](https://github.com/apptension/developer-handbook?ref=HackerTabExtension&fbclid=IwAR2KSDo7PImokasMK2q2pAevCAwvrC_tpD471wXdcAahMFnS6L1Jf9jtUYs)
 - [Awesome Courses](https://github.com/prakhar1989/awesome-courses?ref=HackerTabExtension&fbclid=IwAR37leVm1-nt0Do-6Kgfa91AoLcEVjr9aegIMjkorvV3jtPcz5_eqPri038)
