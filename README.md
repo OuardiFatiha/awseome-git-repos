@@ -66,6 +66,9 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [The Algorithm Design Manual](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf?fbclid=IwAR1_SDMVyI4Knk2eUD2mXhPz_8GVucEqa5IbJ-Pl1_O1qFMhu6yvC62GLJY)
 - [free-programming-books ](https://github.com/EbookFoundation/free-programming-books?fbclid=IwAR37loW7tPStFiovUfo9puB-Y8MyfR8VoMLF137124v3qHsOkuOWj1_cOvg)
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line?ref=HackerTabExtension&fbclid=IwAR11uh42JeIY4-c05y0fTDhRGcQ9KtevLH3jc2bfa-ohjp5f6C9FZ4lotRo)
+- [Awesome Courses](https://github.com/prakhar1989/awesome-courses?ref=HackerTabExtension&fbclid=IwAR37leVm1-nt0Do-6Kgfa91AoLcEVjr9aegIMjkorvV3jtPcz5_eqPri038)
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?ref=HackerTabExtension&fbclid=IwAR0Vyzr6rJ57ghsaVBSMfL_wLDdVfKultB0ztEr9EuvjnR9oJjEApLGauYE)
+
 
 ## Articles 
 - [5 websites a computer science student should know](https://medium.com/ieee-ensias-student-branch/5-websites-a-computer-science-student-should-know-f235dbc03131)
@@ -79,13 +82,13 @@ Here is some links of the popular github repos that I have gathered from HackerT
 
 ## Others
 - [Developer Handbook](https://github.com/apptension/developer-handbook?ref=HackerTabExtension&fbclid=IwAR2KSDo7PImokasMK2q2pAevCAwvrC_tpD471wXdcAahMFnS6L1Jf9jtUYs)
-- [Awesome Courses](https://github.com/prakhar1989/awesome-courses?ref=HackerTabExtension&fbclid=IwAR37leVm1-nt0Do-6Kgfa91AoLcEVjr9aegIMjkorvV3jtPcz5_eqPri038)
 - [Linux Basics for Hackers](http://93.174.95.29/main/0BBB043D0C62458A868DEB6FF34778A1?fbclid=IwAR2gLdu_u9rMDIn2yzL9u6XsRoaJJOIGAmae_JHakyPwcwEZfkouYM8YoZ4)
 - [opensource.guide](https://github.com/github/opensource.guide?ref=HackerTabExtension&fbclid=IwAR26a5Ve9PbjH3YkczMSGDGvVeZyItVWZ4KrSn9JoaLAQy-0SqxgXFxta2Y)
 - [app-ideas](https://github.com/florinpop17/app-ideas?ref=HackerTabExtension&fbclid=IwAR3qGpXDEi3D5OvoK0a0fwi2xF0b1Z5xiiXJcDE_LTSOzfuoB9CMBT9_l0s)
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job?ref=HackerTabExtension&fbclid=IwAR3LlPzON_3knGh52qUQL-4cz75gzuA-JLafmVE4h2BcD_-jk2uX-V5mDGM)
-- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?ref=HackerTabExtension&fbclid=IwAR0Vyzr6rJ57ghsaVBSMfL_wLDdVfKultB0ztEr9EuvjnR9oJjEApLGauYE)
+- [JobFunnel](https://github.com/PaulMcInnis/JobFunnel?ref=HackerTabExtension&fbclid=IwAR2fYWlN5azPfjMwugNvb8JiC_tvskuvill9odQB7sgPNoJcYn7-Dl1IC5I)
 - [awesome](https://github.com/sindresorhus/awesome?ref=HackerTabExtension&fbclid=IwAR3V9dyz502wC3tD4AT2ii9moP8nWNjoe__MGhj2Un7kfq4mO0C1uHd1x0A)
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook?ref=HackerTabExtension&fbclid=IwAR0s2Wcq0wvhIkjAhKclycnpHPvPmJ5SkQ-HmJtR5FQgBUoiPMPeun4ns3c)
 - [awesome-uses](https://github.com/wesbos/awesome-uses?ref=HackerTabExtension&fbclid=IwAR3aiQFjCxZDjvGpJg56w2ap_BnSA0EGsZnIHJ_dZRfrH4wifj3rnQk2Ubw)
+- [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap?ref=HackerTabExtension&fbclid=IwAR2D3VnUO_MUydgmLTB5V21kcQ27xLei-VRLOit96mLi6qQ41R1PnX8nRfE)
 
