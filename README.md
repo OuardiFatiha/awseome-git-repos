@@ -26,6 +26,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE?ref=HackerTabExtension&fbclid=IwAR2Pwq8UDIFF51LSZJ4noFGSwa8kZFWlU_225l2AeaqSYs_0f7A6Jxi9wnY)
 - [Practical-Ethical-Hacking-Resources](https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources?ref=HackerTabExtension&fbclid=IwAR12ivjsKlTE309Igx0-yoohAc-WSNqpkER_0DaVBjKvQj7xsy94GKjR7Qg)
 - [ The-Art-of-Hacking ](https://github.com/The-Art-of-Hacking/h4cker?ref=HackerTabExtension&fbclid=IwAR1Q0zUJdgpRwBqy45j7qk8tK6rqtQzja7_Cflaqbandj-EfC_q-DpfU1Hc)
+- [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC?ref=HackerTabExtension)
 
 ## AI
 - [Books for Machine Learning, Deep Learning, and related topics](https://github.com/loveunk/Deep-learning-books?ref=HackerTabExtension&fbclid=IwAR2-cYl37yscNH77O3_LBxzlx524L2FukMlelpjuFYZLiEpKw5870kDhagg)
@@ -35,6 +36,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [applied-ml](https://github.com/rstudio-conf-2020/applied-ml?ref=HackerTabExtension&fbclid=IwAR1DxQ-RMmIc4kxN-U41QhK4GvnBCi6EQTGhT2CIGszdYtgzbjHrCdbYoh4)
 - [Awful AI](https://github.com/daviddao/awful-ai?ref=HackerTabExtension&fbclid=IwAR083tBb1E8io6qY8RHY2RjWWkVFOGYUg3uZe1S0Ew7m5bya5dVb953zDt4)
 - [basics of ML](https://github.com/madewithml/basics?ref=HackerTabExtension&fbclid=IwAR17swVsIDSFUEr96XdOcZ3H982gIlRc2k5q4dLtzS4arXri5k9ULxLOymk)
+- [jupyter-book](https://github.com/executablebooks/jupyter-book?ref=HackerTabExtension)
 
 ## Web
 - [responsively-app ](https://github.com/manojVivek/responsively-app?ref=HackerTabExtension&fbclid=IwAR3vFwlYW5Ef1n07evXi8517XhY4Bz6g3M-mE5jg0bIZvaqoF7TliO2DCOI)
