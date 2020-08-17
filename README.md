@@ -16,6 +16,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 ## Data
 - [Awesome datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Awesome Data Science](https://github.com/academic/awesome-datascience?ref=HackerTabExtension&fbclid=IwAR0150O7YXSlDrTNjcw76uirAdYUzUSVbgPLlsRD6gbPN3AJzEN310OFs-I)
+- [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData?ref=HackerTabExtension)
 
 ## Gaming
 - [Phaser - HTML5 Game Framework](https://github.com/photonstorm/phaser?ref=HackerTabExtension&fbclid=IwAR0-EqXE8cNzwoNSyo1yHxpWMHdVM7fKD_5EJx9oQi6LjsEOoaLjXOSrXTA)
@@ -50,6 +51,10 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [Front-end Challenges](https://github.com/felipefialho/frontend-challenges?ref=HackerTabExtension&fbclid=IwAR2v-6GDU3j7gASDQWNJ-sKCQ58SS0WSUrwKimg2gLNGGyXmPNJgAimA7Xk)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap?ref=HackerTabExtension&fbclid=IwAR22VHgJQ6KqRJL9LtBv3w0bpTDeOY5knl-wdTshoxOfLY-9h52dHhLbaRM)
 - [clean-code-javascript ](https://github.com/ryanmcdermott/clean-code-javascript?ref=HackerTabExtension&fbclid=IwAR0s2Wcq0wvhIkjAhKclycnpHPvPmJ5SkQ-HmJtR5FQgBUoiPMPeun4ns3c)
+- [storybook UI compoenets](https://github.com/storybookjs/storybook?ref=HackerTabExtension)
+- [papercups Open source live customer chat](https://github.com/papercups-io/papercups?ref=HackerTabExtension)
+- [Halfmoon Frontend Framework](https://github.com/halfmoonui/halfmoon?ref=HackerTabExtension)
+- [aravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices?ref=HackerTabExtension)
 
 ## Algorithms
 - [Algorithms in C](https://github.com/TheAlgorithms/C?ref=HackerTabExtension&fbclid=IwAR2TG7dqtchrez6ZraYmw-iVN18_ukhuVyIDKLv-mvPgrzfvcaC9DlBZc10)
