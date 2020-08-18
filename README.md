@@ -55,11 +55,14 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [papercups Open source live customer chat](https://github.com/papercups-io/papercups?ref=HackerTabExtension)
 - [Halfmoon Frontend Framework](https://github.com/halfmoonui/halfmoon?ref=HackerTabExtension)
 - [aravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices?ref=HackerTabExtension)
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar?ref=HackerTabExtension)
 
 ## Algorithms
 - [Algorithms in C](https://github.com/TheAlgorithms/C?ref=HackerTabExtension&fbclid=IwAR2TG7dqtchrez6ZraYmw-iVN18_ukhuVyIDKLv-mvPgrzfvcaC9DlBZc10)
 - [Algorithms in C++](https://github.com/TheAlgorithms/C-Plus-Plus?ref=HackerTabExtension&fbclid=IwAR1hrOPOIqfBLMJOspRxGLmCMYubPV9xHEPXrf_R_TRtHTt7AiPtUUA87Og)
 - [Algorithms in Python](https://github.com/TheAlgorithms/Python?ref=HackerTabExtension&fbclid=IwAR2HYcwyQ2uDodSYTNc79DXXXiO_4tGRLM9pvfFWOtIBXS4UvdYJw2b7H0I)
+- [LeetCode in Go](https://github.com/halfrost/LeetCode-Go?ref=HackerTabExtension)
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm?ref=HackerTabExtension)
 
 ## Social media
 - [SnapChat Clone](https://github.com/TowhidKashem/snapchat-clone?ref=HackerTabExtension&fbclid=IwAR33cjCxKaarDcDEdgGeqkZLk9uPKQC6tWAv8JsY2fmntH-mPsQ9T723R0o)
