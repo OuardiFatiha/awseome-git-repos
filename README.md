@@ -38,6 +38,9 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [Awful AI](https://github.com/daviddao/awful-ai?ref=HackerTabExtension&fbclid=IwAR083tBb1E8io6qY8RHY2RjWWkVFOGYUg3uZe1S0Ew7m5bya5dVb953zDt4)
 - [basics of ML](https://github.com/madewithml/basics?ref=HackerTabExtension&fbclid=IwAR17swVsIDSFUEr96XdOcZ3H982gIlRc2k5q4dLtzS4arXri5k9ULxLOymk)
 - [jupyter-book](https://github.com/executablebooks/jupyter-book?ref=HackerTabExtension)
+- [h1st](https://github.com/h1st-ai/h1st?ref=HackerTabExtension)
+- [minGPT](https://github.com/karpathy/minGPT?ref=HackerTabExtension)
+- [libra](https://github.com/Palashio/libra?ref=HackerTabExtension)
 
 ## Web
 - [responsively-app ](https://github.com/manojVivek/responsively-app?ref=HackerTabExtension&fbclid=IwAR3vFwlYW5Ef1n07evXi8517XhY4Bz6g3M-mE5jg0bIZvaqoF7TliO2DCOI)
