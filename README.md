@@ -61,6 +61,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [aravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices?ref=HackerTabExtension)
 - [fullcalendar](https://github.com/fullcalendar/fullcalendar?ref=HackerTabExtension)
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers?ref=HackerTabExtension)
+- [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources?ref=HackerTabExtension&fbclid=IwAR0TffOOY1da50FzJRgxTlXMlc8hw0FCglG0yRvog-t_CDfLlRu6vjE1r0U)
 
 ## Algorithms
 - [Algorithms in C](https://github.com/TheAlgorithms/C?ref=HackerTabExtension&fbclid=IwAR2TG7dqtchrez6ZraYmw-iVN18_ukhuVyIDKLv-mvPgrzfvcaC9DlBZc10)
@@ -68,6 +69,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [Algorithms in Python](https://github.com/TheAlgorithms/Python?ref=HackerTabExtension&fbclid=IwAR2HYcwyQ2uDodSYTNc79DXXXiO_4tGRLM9pvfFWOtIBXS4UvdYJw2b7H0I)
 - [LeetCode in Go](https://github.com/halfrost/LeetCode-Go?ref=HackerTabExtension)
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm?ref=HackerTabExtension)
+- [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming?ref=HackerTabExtension&fbclid=IwAR1n4iBWE1Iv1khs_g0XWV5FkNWqIBiGg6sBfmmGGljV13DeO2HxlRow3yA)
 
 ## Social media
 - [SnapChat Clone](https://github.com/TowhidKashem/snapchat-clone?ref=HackerTabExtension&fbclid=IwAR33cjCxKaarDcDEdgGeqkZLk9uPKQC6tWAv8JsY2fmntH-mPsQ9T723R0o)
@@ -108,4 +110,5 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [awesome-uses](https://github.com/wesbos/awesome-uses?ref=HackerTabExtension&fbclid=IwAR3aiQFjCxZDjvGpJg56w2ap_BnSA0EGsZnIHJ_dZRfrH4wifj3rnQk2Ubw)
 - [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap?ref=HackerTabExtension&fbclid=IwAR2D3VnUO_MUydgmLTB5V21kcQ27xLei-VRLOit96mLi6qQ41R1PnX8nRfE)
 - [interviews](https://github.com/kdn251/interviews?ref=HackerTabExtension)
+- [DevYouTubeList](https://github.com/ErikCH/DevYouTubeList?ref=HackerTabExtension&fbclid=IwAR3N_wJ1L8zG4b9jAu4Ka7efBhT6mNvh1qalVzR7pb2FrKxKBLm8nwkpqKk)
 
