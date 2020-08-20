@@ -5,9 +5,6 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode?ref=HackerTabExtension) 
 - [awesomefluttertips](https://github.com/erluxman/awesomefluttertips?ref=HackerTabExtension)
 
-## Documentation
-- [Google's Engineering Practices documentation](https://google.github.io/eng-practices/review/reviewer/?fbclid=IwAR3OF_YVMtI7xsXBlfrayAchtbpcqy9tsAYawo0UfLLaz4O8D45mH2eovc8)
-
 ## CVS
 - [Simple guide for git](https://rogerdudler.github.io/git-guide/?fbclid=IwAR2z33hEpcq534qQWrA5taLw2vggkwYXv2n5hBh1YbIC6btAtqlmX9GaAF0)
 - [Github Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -58,7 +55,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [storybook UI compoenets](https://github.com/storybookjs/storybook?ref=HackerTabExtension)
 - [papercups Open source live customer chat](https://github.com/papercups-io/papercups?ref=HackerTabExtension)
 - [Halfmoon Frontend Framework](https://github.com/halfmoonui/halfmoon?ref=HackerTabExtension)
-- [aravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices?ref=HackerTabExtension)
+- [Laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices?ref=HackerTabExtension)
 - [fullcalendar](https://github.com/fullcalendar/fullcalendar?ref=HackerTabExtension)
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers?ref=HackerTabExtension)
 - [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources?ref=HackerTabExtension&fbclid=IwAR0TffOOY1da50FzJRgxTlXMlc8hw0FCglG0yRvog-t_CDfLlRu6vjE1r0U)
@@ -92,6 +89,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [5 websites a computer science student should know](https://medium.com/ieee-ensias-student-branch/5-websites-a-computer-science-student-should-know-f235dbc03131)
 - [Your Ultimate Learning Path to Become a Data Scientist and Machine Learning Expert in 2020](https://www.analyticsvidhya.com/blog/2020/01/learning-path-data-scientist-machine-learning-2020/?fbclid=IwAR0z3H-jtve-tE1rTxRp2ZZ-XECuJLhIGX0jhERDamsD6g0jnPGhwU-1JLo)
 - [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data?ref=HackerTabExtension)
+- [Google's Engineering Practices documentation](https://google.github.io/eng-practices/review/reviewer/?fbclid=IwAR3OF_YVMtI7xsXBlfrayAchtbpcqy9tsAYawo0UfLLaz4O8D45mH2eovc8)
 
 ## Apis
 - [public-apis](https://github.com/public-apis/public-apis?ref=HackerTabExtension&fbclid=IwAR1ns-Q6LoIgnOtrMhcRth5doKQlN_sZ6dZ4Musn8l0p7Mh6PpeCgIcuFlc)
