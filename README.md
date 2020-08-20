@@ -17,6 +17,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [Awesome datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Awesome Data Science](https://github.com/academic/awesome-datascience?ref=HackerTabExtension&fbclid=IwAR0150O7YXSlDrTNjcw76uirAdYUzUSVbgPLlsRD6gbPN3AJzEN310OFs-I)
 - [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData?ref=HackerTabExtension)
+- [metabase BI](https://github.com/metabase/metabase?ref=HackerTabExtension&fbclid=IwAR0QfBIcb9wbsFVngWdOrGyWUDocP43DOGY1Alq93DBXBvt0ae0Ynnp75Vo)
 
 ## Gaming
 - [Phaser - HTML5 Game Framework](https://github.com/photonstorm/phaser?ref=HackerTabExtension&fbclid=IwAR0-EqXE8cNzwoNSyo1yHxpWMHdVM7fKD_5EJx9oQi6LjsEOoaLjXOSrXTA)
@@ -82,6 +83,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line?ref=HackerTabExtension&fbclid=IwAR11uh42JeIY4-c05y0fTDhRGcQ9KtevLH3jc2bfa-ohjp5f6C9FZ4lotRo)
 - [Awesome Courses](https://github.com/prakhar1989/awesome-courses?ref=HackerTabExtension&fbclid=IwAR37leVm1-nt0Do-6Kgfa91AoLcEVjr9aegIMjkorvV3jtPcz5_eqPri038)
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?ref=HackerTabExtension&fbclid=IwAR0Vyzr6rJ57ghsaVBSMfL_wLDdVfKultB0ztEr9EuvjnR9oJjEApLGauYE)
+- [Linux Basics for Hackers](http://93.174.95.29/main/0BBB043D0C62458A868DEB6FF34778A1?fbclid=IwAR2gLdu_u9rMDIn2yzL9u6XsRoaJJOIGAmae_JHakyPwcwEZfkouYM8YoZ4)
 
 
 ## Articles 
@@ -97,7 +99,6 @@ Here is some links of the popular github repos that I have gathered from HackerT
 
 ## Others
 - [Developer Handbook](https://github.com/apptension/developer-handbook?ref=HackerTabExtension&fbclid=IwAR2KSDo7PImokasMK2q2pAevCAwvrC_tpD471wXdcAahMFnS6L1Jf9jtUYs)
-- [Linux Basics for Hackers](http://93.174.95.29/main/0BBB043D0C62458A868DEB6FF34778A1?fbclid=IwAR2gLdu_u9rMDIn2yzL9u6XsRoaJJOIGAmae_JHakyPwcwEZfkouYM8YoZ4)
 - [opensource.guide](https://github.com/github/opensource.guide?ref=HackerTabExtension&fbclid=IwAR26a5Ve9PbjH3YkczMSGDGvVeZyItVWZ4KrSn9JoaLAQy-0SqxgXFxta2Y)
 - [app-ideas](https://github.com/florinpop17/app-ideas?ref=HackerTabExtension&fbclid=IwAR3qGpXDEi3D5OvoK0a0fwi2xF0b1Z5xiiXJcDE_LTSOzfuoB9CMBT9_l0s)
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job?ref=HackerTabExtension&fbclid=IwAR3LlPzON_3knGh52qUQL-4cz75gzuA-JLafmVE4h2BcD_-jk2uX-V5mDGM)
