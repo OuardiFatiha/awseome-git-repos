@@ -39,6 +39,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [h1st](https://github.com/h1st-ai/h1st?ref=HackerTabExtension)
 - [minGPT](https://github.com/karpathy/minGPT?ref=HackerTabExtension)
 - [libra](https://github.com/Palashio/libra?ref=HackerTabExtension)
+- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning?ref=HackerTabExtension&fbclid=IwAR09BWKusPVihBCBd39qHJNJsB7l-0Nqb74I680vnj_1gdluC3Q0BJgWj2o)
 
 ## Web
 - [responsively-app ](https://github.com/manojVivek/responsively-app?ref=HackerTabExtension&fbclid=IwAR3vFwlYW5Ef1n07evXi8517XhY4Bz6g3M-mE5jg0bIZvaqoF7TliO2DCOI)
@@ -59,6 +60,8 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [fullcalendar](https://github.com/fullcalendar/fullcalendar?ref=HackerTabExtension)
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers?ref=HackerTabExtension)
 - [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources?ref=HackerTabExtension&fbclid=IwAR0TffOOY1da50FzJRgxTlXMlc8hw0FCglG0yRvog-t_CDfLlRu6vjE1r0U)
+- [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course?ref=HackerTabExtension&fbclid=IwAR1B2kgccnyNec_QU7MikkfP8-QYNsjjDowsKzT4Pv7ALb74xccIu0vmlS0)
+- [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools?ref=HackerTabExtension&fbclid=IwAR33tskNQMx3ttZ5RSXSNcx9KjXW1rt7n6qNZoCXSniAaEO_8SI2cblj2FU)
 
 ## Algorithms
 - [Algorithms in C](https://github.com/TheAlgorithms/C?ref=HackerTabExtension&fbclid=IwAR2TG7dqtchrez6ZraYmw-iVN18_ukhuVyIDKLv-mvPgrzfvcaC9DlBZc10)
