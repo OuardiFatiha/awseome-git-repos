@@ -70,6 +70,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [LeetCode in Go](https://github.com/halfrost/LeetCode-Go?ref=HackerTabExtension)
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm?ref=HackerTabExtension)
 - [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming?ref=HackerTabExtension&fbclid=IwAR1n4iBWE1Iv1khs_g0XWV5FkNWqIBiGg6sBfmmGGljV13DeO2HxlRow3yA)
+- [coding-problems](https://github.com/MTrajK/coding-problems?ref=HackerTabExtension&fbclid=IwAR32OVreJgUdp1_4s7s0y5giKpMNwGbks6r1ZOTKzUDkeu-9U2fWrdRNN84)
 
 ## Social media
 - [SnapChat Clone](https://github.com/TowhidKashem/snapchat-clone?ref=HackerTabExtension&fbclid=IwAR33cjCxKaarDcDEdgGeqkZLk9uPKQC6tWAv8JsY2fmntH-mPsQ9T723R0o)
@@ -86,6 +87,7 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [Awesome Courses](https://github.com/prakhar1989/awesome-courses?ref=HackerTabExtension&fbclid=IwAR37leVm1-nt0Do-6Kgfa91AoLcEVjr9aegIMjkorvV3jtPcz5_eqPri038)
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?ref=HackerTabExtension&fbclid=IwAR0Vyzr6rJ57ghsaVBSMfL_wLDdVfKultB0ztEr9EuvjnR9oJjEApLGauYE)
 - [Linux Basics for Hackers](http://93.174.95.29/main/0BBB043D0C62458A868DEB6FF34778A1?fbclid=IwAR2gLdu_u9rMDIn2yzL9u6XsRoaJJOIGAmae_JHakyPwcwEZfkouYM8YoZ4)
+- [python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition?ref=HackerTabExtension&fbclid=IwAR2beg0L4hlNdufZArA5r15HsLr058w7ujJgc3CtjsSpL4zPnbeX_3_3DEk)
 
 
 ## Articles 
@@ -112,4 +114,5 @@ Here is some links of the popular github repos that I have gathered from HackerT
 - [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap?ref=HackerTabExtension&fbclid=IwAR2D3VnUO_MUydgmLTB5V21kcQ27xLei-VRLOit96mLi6qQ41R1PnX8nRfE)
 - [interviews](https://github.com/kdn251/interviews?ref=HackerTabExtension)
 - [DevYouTubeList](https://github.com/ErikCH/DevYouTubeList?ref=HackerTabExtension&fbclid=IwAR3N_wJ1L8zG4b9jAu4Ka7efBhT6mNvh1qalVzR7pb2FrKxKBLm8nwkpqKk)
+- [front-end-interview-handbook ](https://github.com/yangshun/front-end-interview-handbook?ref=HackerTabExtension&fbclid=IwAR1QF5m3_tYAOigaXGDjaWzypM5442eorFsFfB7zLlhkEDIDltjFJewHDfQ)
 
