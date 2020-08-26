@@ -1,10 +1,6 @@
 # awseome-git-repos
 Here is some links of the popular github repos that I have gathered from HackerTabExtension and other places.
-
-## Mobile
-- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode?ref=HackerTabExtension) 
-- [awesomefluttertips](https://github.com/erluxman/awesomefluttertips?ref=HackerTabExtension)
-- [nl-covid19-notification-app-android](https://github.com/minvws/nl-covid19-notification-app-android?ref=HackerTabExtension)
+- ## [Mobile](https://github.com/OuardiFatiha/awseome-git-repos/blob/master/Mobile.md)
 
 ## CVS
 - [Simple guide for git](https://rogerdudler.github.io/git-guide/?fbclid=IwAR2z33hEpcq534qQWrA5taLw2vggkwYXv2n5hBh1YbIC6btAtqlmX9GaAF0)
