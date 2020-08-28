@@ -1,0 +1,3 @@
+- [Simple guide for git](https://rogerdudler.github.io/git-guide/?fbclid=IwAR2z33hEpcq534qQWrA5taLw2vggkwYXv2n5hBh1YbIC6btAtqlmX9GaAF0)
+- [Github Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Awesome Github Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme?ref=HackerTabExtension&fbclid=IwAR2nvBuYOW_PKs2Nqxj39Oe_3mb26XNdenZw1aMMLiucKPbesfTOocPaIwo)
