@@ -1,0 +1,4 @@
+- [5 websites a computer science student should know](https://medium.com/ieee-ensias-student-branch/5-websites-a-computer-science-student-should-know-f235dbc03131)
+- [Your Ultimate Learning Path to Become a Data Scientist and Machine Learning Expert in 2020](https://www.analyticsvidhya.com/blog/2020/01/learning-path-data-scientist-machine-learning-2020/?fbclid=IwAR0z3H-jtve-tE1rTxRp2ZZ-XECuJLhIGX0jhERDamsD6g0jnPGhwU-1JLo)
+- [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data?ref=HackerTabExtension)
+- [Google's Engineering Practices documentation](https://google.github.io/eng-practices/review/reviewer/?fbclid=IwAR3OF_YVMtI7xsXBlfrayAchtbpcqy9tsAYawo0UfLLaz4O8D45mH2eovc8)
