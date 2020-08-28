@@ -1,0 +1,7 @@
+- [The Algorithm Design Manual](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf?fbclid=IwAR1_SDMVyI4Knk2eUD2mXhPz_8GVucEqa5IbJ-Pl1_O1qFMhu6yvC62GLJY)
+- [free-programming-books ](https://github.com/EbookFoundation/free-programming-books?fbclid=IwAR37loW7tPStFiovUfo9puB-Y8MyfR8VoMLF137124v3qHsOkuOWj1_cOvg)
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line?ref=HackerTabExtension&fbclid=IwAR11uh42JeIY4-c05y0fTDhRGcQ9KtevLH3jc2bfa-ohjp5f6C9FZ4lotRo)
+- [Awesome Courses](https://github.com/prakhar1989/awesome-courses?ref=HackerTabExtension&fbclid=IwAR37leVm1-nt0Do-6Kgfa91AoLcEVjr9aegIMjkorvV3jtPcz5_eqPri038)
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?ref=HackerTabExtension&fbclid=IwAR0Vyzr6rJ57ghsaVBSMfL_wLDdVfKultB0ztEr9EuvjnR9oJjEApLGauYE)
+- [Linux Basics for Hackers](http://93.174.95.29/main/0BBB043D0C62458A868DEB6FF34778A1?fbclid=IwAR2gLdu_u9rMDIn2yzL9u6XsRoaJJOIGAmae_JHakyPwcwEZfkouYM8YoZ4)
+- [python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition?ref=HackerTabExtension&fbclid=IwAR2beg0L4hlNdufZArA5r15HsLr058w7ujJgc3CtjsSpL4zPnbeX_3_3DEk)
