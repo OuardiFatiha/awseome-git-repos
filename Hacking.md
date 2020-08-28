@@ -1,0 +1,7 @@
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking?ref=HackerTabExtension&fbclid=IwAR0p-9vvUOjsEDxMIqyRpK36tflBBts2PQV27TvwR04_u5bBJ42A4leBG9k)
+- [Hacking tool](https://github.com/Z4nzu/hackingtool?ref=HackerTabExtension&fbclid=IwAR1d5-HxdAqED2zzeGACpmV-idRDQ20Om9fzuIr2CUXwofUYxIuPlaIhc4I)
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE?ref=HackerTabExtension&fbclid=IwAR2Pwq8UDIFF51LSZJ4noFGSwa8kZFWlU_225l2AeaqSYs_0f7A6Jxi9wnY)
+- [Practical-Ethical-Hacking-Resources](https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources?ref=HackerTabExtension&fbclid=IwAR12ivjsKlTE309Igx0-yoohAc-WSNqpkER_0DaVBjKvQj7xsy94GKjR7Qg)
+- [ The-Art-of-Hacking ](https://github.com/The-Art-of-Hacking/h4cker?ref=HackerTabExtension&fbclid=IwAR1Q0zUJdgpRwBqy45j7qk8tK6rqtQzja7_Cflaqbandj-EfC_q-DpfU1Hc)
+- [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC?ref=HackerTabExtension)
+- [hacker-scripts ](https://github.com/NARKOZ/hacker-scripts?fbclid=IwAR3q8bwVftjPiXOUcGGhrpmyqTfTwr2c_PmEQFHKdAVQk8JPK-G5ab-0W8E)
