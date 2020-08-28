@@ -1,0 +1,7 @@
+- [Algorithms in C](https://github.com/TheAlgorithms/C?ref=HackerTabExtension&fbclid=IwAR2TG7dqtchrez6ZraYmw-iVN18_ukhuVyIDKLv-mvPgrzfvcaC9DlBZc10)
+- [Algorithms in C++](https://github.com/TheAlgorithms/C-Plus-Plus?ref=HackerTabExtension&fbclid=IwAR1hrOPOIqfBLMJOspRxGLmCMYubPV9xHEPXrf_R_TRtHTt7AiPtUUA87Og)
+- [Algorithms in Python](https://github.com/TheAlgorithms/Python?ref=HackerTabExtension&fbclid=IwAR2HYcwyQ2uDodSYTNc79DXXXiO_4tGRLM9pvfFWOtIBXS4UvdYJw2b7H0I)
+- [LeetCode in Go](https://github.com/halfrost/LeetCode-Go?ref=HackerTabExtension)
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm?ref=HackerTabExtension)
+- [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming?ref=HackerTabExtension&fbclid=IwAR1n4iBWE1Iv1khs_g0XWV5FkNWqIBiGg6sBfmmGGljV13DeO2HxlRow3yA)
+- [coding-problems](https://github.com/MTrajK/coding-problems?ref=HackerTabExtension&fbclid=IwAR32OVreJgUdp1_4s7s0y5giKpMNwGbks6r1ZOTKzUDkeu-9U2fWrdRNN84)
