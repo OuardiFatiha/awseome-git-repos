@@ -10,3 +10,5 @@
 - [interviews](https://github.com/kdn251/interviews?ref=HackerTabExtension)
 - [DevYouTubeList](https://github.com/ErikCH/DevYouTubeList?ref=HackerTabExtension&fbclid=IwAR3N_wJ1L8zG4b9jAu4Ka7efBhT6mNvh1qalVzR7pb2FrKxKBLm8nwkpqKk)
 - [front-end-interview-handbook ](https://github.com/yangshun/front-end-interview-handbook?ref=HackerTabExtension&fbclid=IwAR1QF5m3_tYAOigaXGDjaWzypM5442eorFsFfB7zLlhkEDIDltjFJewHDfQ)
+- [msfs-a320neo:free Airbus A320neo in Microsoft Flight Simulator](https://github.com/wpine215/msfs-a320neo?ref=HackerTabExtension)
+- [project-guidelines](https://github.com/elsewhencode/project-guidelines?ref=HackerTabExtension)
