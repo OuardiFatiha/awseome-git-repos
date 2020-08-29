@@ -1,1 +1,3 @@
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software?ref=HackerTabExtension&fbclid=IwAR1v47awYVMekGCPHlQFHAF2fkVAV6hTO3-0UEMyPUjOYqnT14-DfOZMxBw)
+- [Learn-Vim](https://github.com/iggredible/Learn-Vim?ref=HackerTabExtension)
+- [Speakeasy:Windowns kernel emulator](https://github.com/fireeye/speakeasy?ref=HackerTabExtension)
