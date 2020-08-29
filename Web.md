@@ -19,3 +19,5 @@
 - [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course?ref=HackerTabExtension&fbclid=IwAR1B2kgccnyNec_QU7MikkfP8-QYNsjjDowsKzT4Pv7ALb74xccIu0vmlS0)
 - [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools?ref=HackerTabExtension&fbclid=IwAR33tskNQMx3ttZ5RSXSNcx9KjXW1rt7n6qNZoCXSniAaEO_8SI2cblj2FU)
 - [locast2plex](https://github.com/tgorgdotcom/locast2plex?ref=HackerTabExtension)
+- [arwes: UI framework for web apps](https://github.com/arwes/arwes?ref=HackerTabExtension)
+- [mern-course-bootcamp](https://github.com/jeanrauwers/mern-course-bootcamp?ref=HackerTabExtension)
