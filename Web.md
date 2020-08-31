@@ -23,3 +23,4 @@
 - [mern-course-bootcamp](https://github.com/jeanrauwers/mern-course-bootcamp?ref=HackerTabExtension)
 - [heroicons: SVG icons for web apps](https://github.com/tailwindlabs/heroicons?ref=HackerTabExtension)
 - [volt-bootstrap-5-dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard?ref=HackerTabExtension)
+- [Shift-Ctrl-F: Semantic Search for the Browser](https://github.com/model-zoo/shift-ctrl-f?ref=HackerTabExtension)
