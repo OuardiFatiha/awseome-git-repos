@@ -5,3 +5,4 @@
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?ref=HackerTabExtension&fbclid=IwAR0Vyzr6rJ57ghsaVBSMfL_wLDdVfKultB0ztEr9EuvjnR9oJjEApLGauYE)
 - [Linux Basics for Hackers](http://93.174.95.29/main/0BBB043D0C62458A868DEB6FF34778A1?fbclid=IwAR2gLdu_u9rMDIn2yzL9u6XsRoaJJOIGAmae_JHakyPwcwEZfkouYM8YoZ4)
 - [python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition?ref=HackerTabExtension&fbclid=IwAR2beg0L4hlNdufZArA5r15HsLr058w7ujJgc3CtjsSpL4zPnbeX_3_3DEk)
+- [webrtc-for-the-curious: More about protocols and apis](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious?ref=HackerTabExtension)
