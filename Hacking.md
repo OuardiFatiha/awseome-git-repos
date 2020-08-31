@@ -5,3 +5,4 @@
 - [ The-Art-of-Hacking ](https://github.com/The-Art-of-Hacking/h4cker?ref=HackerTabExtension&fbclid=IwAR1Q0zUJdgpRwBqy45j7qk8tK6rqtQzja7_Cflaqbandj-EfC_q-DpfU1Hc)
 - [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC?ref=HackerTabExtension)
 - [hacker-scripts ](https://github.com/NARKOZ/hacker-scripts?fbclid=IwAR3q8bwVftjPiXOUcGGhrpmyqTfTwr2c_PmEQFHKdAVQk8JPK-G5ab-0W8E)
+- [Hack-Tools ](https://github.com/LasCC/Hack-Tools?ref=HackerTabExtension)
