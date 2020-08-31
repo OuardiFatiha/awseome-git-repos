@@ -12,3 +12,5 @@
 - [front-end-interview-handbook ](https://github.com/yangshun/front-end-interview-handbook?ref=HackerTabExtension&fbclid=IwAR1QF5m3_tYAOigaXGDjaWzypM5442eorFsFfB7zLlhkEDIDltjFJewHDfQ)
 - [msfs-a320neo:free Airbus A320neo in Microsoft Flight Simulator](https://github.com/wpine215/msfs-a320neo?ref=HackerTabExtension)
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines?ref=HackerTabExtension)
+- [The Ultimate Go Study Guide](https://github.com/hoanhan101/ultimate-go?ref=HackerTabExtension)
+- [free-for.dev](https://github.com/ripienaar/free-for-dev?ref=HackerTabExtension)
