@@ -14,3 +14,5 @@
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines?ref=HackerTabExtension)
 - [The Ultimate Go Study Guide](https://github.com/hoanhan101/ultimate-go?ref=HackerTabExtension)
 - [free-for.dev](https://github.com/ripienaar/free-for-dev?ref=HackerTabExtension)
+- [Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python?ref=HackerTabExtension)
+- [Dear PyGui: Python GUI framework](https://github.com/hoffstadt/DearPyGui?ref=HackerTabExtension)
