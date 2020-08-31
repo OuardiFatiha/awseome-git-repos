@@ -21,3 +21,5 @@
 - [locast2plex](https://github.com/tgorgdotcom/locast2plex?ref=HackerTabExtension)
 - [arwes: UI framework for web apps](https://github.com/arwes/arwes?ref=HackerTabExtension)
 - [mern-course-bootcamp](https://github.com/jeanrauwers/mern-course-bootcamp?ref=HackerTabExtension)
+- [heroicons: SVG icons for web apps](https://github.com/tailwindlabs/heroicons?ref=HackerTabExtension)
+- [volt-bootstrap-5-dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard?ref=HackerTabExtension)
