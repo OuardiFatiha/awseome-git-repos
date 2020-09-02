@@ -16,3 +16,6 @@
 - [free-for.dev](https://github.com/ripienaar/free-for-dev?ref=HackerTabExtension)
 - [Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python?ref=HackerTabExtension)
 - [Dear PyGui: Python GUI framework](https://github.com/hoffstadt/DearPyGui?ref=HackerTabExtension)
+- [learn-python](https://github.com/trekhleb/learn-python?ref=HackerTabExtension)
+- [project-based-learning](https://github.com/tuvtran/project-based-learning?ref=HackerTabExtension)
+- [KingOfBugBountyTips](https://github.com/OfJAAH/KingOfBugBountyTips?ref=HackerTabExtension)
