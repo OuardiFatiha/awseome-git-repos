@@ -5,3 +5,6 @@
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm?ref=HackerTabExtension)
 - [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming?ref=HackerTabExtension&fbclid=IwAR1n4iBWE1Iv1khs_g0XWV5FkNWqIBiGg6sBfmmGGljV13DeO2HxlRow3yA)
 - [coding-problems](https://github.com/MTrajK/coding-problems?ref=HackerTabExtension&fbclid=IwAR32OVreJgUdp1_4s7s0y5giKpMNwGbks6r1ZOTKzUDkeu-9U2fWrdRNN84)
+- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings?ref=HackerTabExtension)
+- [18.S191: Introduction to computational thinking for real-world problems](https://github.com/mitmath/18S191?ref=HackerTabExtension)
+
