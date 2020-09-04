@@ -24,3 +24,5 @@
 - [heroicons: SVG icons for web apps](https://github.com/tailwindlabs/heroicons?ref=HackerTabExtension)
 - [volt-bootstrap-5-dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard?ref=HackerTabExtension)
 - [Shift-Ctrl-F: Semantic Search for the Browser](https://github.com/model-zoo/shift-ctrl-f?ref=HackerTabExtension)
+- [30-seconds-of-code:Short JavaScript code snippets for all your development needs](https://github.com/30-seconds/30-seconds-of-code?ref=HackerTabExtension)
+- [Blade UI Kit is a set of renderless components to utilise in your Laravel Blade views](https://github.com/blade-ui-kit/blade-ui-kit?ref=HackerTabExtension)
