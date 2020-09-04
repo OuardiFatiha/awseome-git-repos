@@ -19,3 +19,7 @@
 - [learn-python](https://github.com/trekhleb/learn-python?ref=HackerTabExtension)
 - [project-based-learning](https://github.com/tuvtran/project-based-learning?ref=HackerTabExtension)
 - [KingOfBugBountyTips](https://github.com/OfJAAH/KingOfBugBountyTips?ref=HackerTabExtension)
+- [finance:A self hosted app to help you get a better understanding of your finances](https://github.com/austinkregel/finance?ref=HackerTabExtension)
+- [Turn a $30 USB switch into a full-featured KVM](https://github.com/haimgel/display-switch?ref=HackerTabExtension)
+- [tutorials](https://github.com/eugenp/tutorials?ref=HackerTabExtension)
+- [AutoScraper: A Smart, Automatic, Fast and Lightweight Web Scraper for Python](https://github.com/alirezamika/autoscraper?ref=HackerTabExtension)
