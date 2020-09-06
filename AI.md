@@ -15,3 +15,6 @@
 - [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch?ref=HackerTabExtension)
 - [Spark NLP is a Natural Language Processing library built on top of Apache Spark ML](https://github.com/JohnSnowLabs/spark-nlp?ref=HackerTabExtension)
 - [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers?ref=HackerTabExtension)
+- [deeplearning-models](https://github.com/rasbt/deeplearning-models?ref=HackerTabExtension)
+- [Hivemind: A library to train large neural networks across the internet](https://github.com/learning-at-home/hivemind?ref=HackerTabExtension)
+- [Keras: Deep Learning for humans](https://github.com/keras-team/keras?ref=HackerTabExtension)
