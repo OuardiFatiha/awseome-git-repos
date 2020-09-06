@@ -26,3 +26,5 @@
 - [Shift-Ctrl-F: Semantic Search for the Browser](https://github.com/model-zoo/shift-ctrl-f?ref=HackerTabExtension)
 - [30-seconds-of-code:Short JavaScript code snippets for all your development needs](https://github.com/30-seconds/30-seconds-of-code?ref=HackerTabExtension)
 - [Blade UI Kit is a set of renderless components to utilise in your Laravel Blade views](https://github.com/blade-ui-kit/blade-ui-kit?ref=HackerTabExtension)
+- [How They Test](https://github.com/abhivaikar/howtheytest?ref=HackerTabExtension)
+- [go-zero: a web and rpc framework that with lots of engineering practices builtin](https://github.com/tal-tech/go-zero?ref=HackerTabExtension)
