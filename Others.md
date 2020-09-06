@@ -23,3 +23,4 @@
 - [Turn a $30 USB switch into a full-featured KVM](https://github.com/haimgel/display-switch?ref=HackerTabExtension)
 - [tutorials](https://github.com/eugenp/tutorials?ref=HackerTabExtension)
 - [AutoScraper: A Smart, Automatic, Fast and Lightweight Web Scraper for Python](https://github.com/alirezamika/autoscraper?ref=HackerTabExtension)
+- [Red Teaming/Adversary Simulation Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit?ref=HackerTabExtension)
