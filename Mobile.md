@@ -6,3 +6,4 @@
 - [Jetpack Compose Samples](https://github.com/android/compose-samples?ref=HackerTabExtension)
 - [OpenBot: Turning Smartphones into Robots](https://github.com/intel-isl/OpenBot?ref=HackerTabExtension)
 - [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources?ref=HackerTabExtension)
+- [flutter](https://github.com/flutter/flutter?ref=HackerTabExtension)
