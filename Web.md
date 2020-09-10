@@ -28,3 +28,4 @@
 - [Blade UI Kit is a set of renderless components to utilise in your Laravel Blade views](https://github.com/blade-ui-kit/blade-ui-kit?ref=HackerTabExtension)
 - [How They Test](https://github.com/abhivaikar/howtheytest?ref=HackerTabExtension)
 - [go-zero: a web and rpc framework that with lots of engineering practices builtin](https://github.com/tal-tech/go-zero?ref=HackerTabExtension)
+- [awesome-react](https://github.com/enaqx/awesome-react?ref=HackerTabExtension)
