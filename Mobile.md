@@ -7,3 +7,5 @@
 - [OpenBot: Turning Smartphones into Robots](https://github.com/intel-isl/OpenBot?ref=HackerTabExtension)
 - [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources?ref=HackerTabExtension)
 - [flutter](https://github.com/flutter/flutter?ref=HackerTabExtension)
+- [radar-covid-android](https://github.com/RadarCOVID/radar-covid-android?ref=HackerTabExtension)
+- [radar-covid-ios](https://github.com/RadarCOVID/radar-covid-ios?ref=HackerTabExtension)
