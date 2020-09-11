@@ -29,3 +29,5 @@
 - [How They Test](https://github.com/abhivaikar/howtheytest?ref=HackerTabExtension)
 - [go-zero: a web and rpc framework that with lots of engineering practices builtin](https://github.com/tal-tech/go-zero?ref=HackerTabExtension)
 - [awesome-react](https://github.com/enaqx/awesome-react?ref=HackerTabExtension)
+- [react-challenge-amazon-clone ](https://github.com/CleverProgrammers/react-challenge-amazon-clone?ref=HackerTabExtension)
+- [minecraft-react ](https://github.com/satansdeer/minecraft-react?ref=HackerTabExtension)
