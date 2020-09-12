@@ -5,3 +5,4 @@
 - [Bottlerocket is a free and open-source Linux-based operating system meant for hosting containers](https://github.com/bottlerocket-os/bottlerocket?ref=HackerTabExtension)
 - [croc is a tool that allows any two computers to simply and securely transfer files and folders](https://github.com/schollz/croc?ref=HackerTabExtension)
 - [PowerShell ](https://github.com/PowerShell/PowerShell?ref=HackerTabExtension)
+- [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS?ref=HackerTabExtension)
