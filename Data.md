@@ -4,3 +4,4 @@
 - [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData?ref=HackerTabExtension)
 - [metabase BI](https://github.com/metabase/metabase?ref=HackerTabExtension&fbclid=IwAR0QfBIcb9wbsFVngWdOrGyWUDocP43DOGY1Alq93DBXBvt0ae0Ynnp75Vo)
 - [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap?ref=HackerTabExtension)
+- [learning](https://github.com/amitness/learning?ref=HackerTabExtension)
