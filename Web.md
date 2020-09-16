@@ -31,3 +31,5 @@
 - [awesome-react](https://github.com/enaqx/awesome-react?ref=HackerTabExtension)
 - [react-challenge-amazon-clone ](https://github.com/CleverProgrammers/react-challenge-amazon-clone?ref=HackerTabExtension)
 - [minecraft-react ](https://github.com/satansdeer/minecraft-react?ref=HackerTabExtension)
+- [react-hook-form ](https://github.com/react-hook-form/react-hook-form?ref=HackerTabExtension)
+- [Elasticsearch: A Distributed RESTful Search Engine](https://github.com/elastic/elasticsearch?ref=HackerTabExtension)
