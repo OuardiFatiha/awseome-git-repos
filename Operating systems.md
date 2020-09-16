@@ -6,3 +6,4 @@
 - [croc is a tool that allows any two computers to simply and securely transfer files and folders](https://github.com/schollz/croc?ref=HackerTabExtension)
 - [PowerShell ](https://github.com/PowerShell/PowerShell?ref=HackerTabExtension)
 - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS?ref=HackerTabExtension)
+- [tmpmail: A temporary email right from your terminal](https://github.com/sdushantha/tmpmail?ref=HackerTabExtension)
