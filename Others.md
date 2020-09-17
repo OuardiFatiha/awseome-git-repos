@@ -26,3 +26,4 @@
 - [Red Teaming/Adversary Simulation Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit?ref=HackerTabExtension)
 - [connectedhomeip](https://github.com/project-chip/connectedhomeip?ref=HackerTabExtension)
 - [diagrams](https://github.com/mingrammer/diagrams?ref=HackerTabExtension)
+- [Tribuo - A Java prediction library ](https://github.com/oracle/tribuo?ref=HackerTabExtension)
