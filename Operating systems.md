@@ -7,3 +7,4 @@
 - [PowerShell ](https://github.com/PowerShell/PowerShell?ref=HackerTabExtension)
 - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS?ref=HackerTabExtension)
 - [tmpmail: A temporary email right from your terminal](https://github.com/sdushantha/tmpmail?ref=HackerTabExtension)
+- [material-shell: A modern desktop interface for Linux extending GNOME Shell](https://github.com/material-shell/material-shell?ref=HackerTabExtension)
