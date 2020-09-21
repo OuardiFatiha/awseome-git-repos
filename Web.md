@@ -33,3 +33,5 @@
 - [minecraft-react ](https://github.com/satansdeer/minecraft-react?ref=HackerTabExtension)
 - [react-hook-form ](https://github.com/react-hook-form/react-hook-form?ref=HackerTabExtension)
 - [Elasticsearch: A Distributed RESTful Search Engine](https://github.com/elastic/elasticsearch?ref=HackerTabExtension)
+- [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer?ref=HackerTabExtension)
+- [react-query: Hooks for fetching, caching and updating asynchronous data in React](https://github.com/tannerlinsley/react-query?ref=HackerTabExtension)
