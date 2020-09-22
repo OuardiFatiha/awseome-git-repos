@@ -19,3 +19,4 @@
 - [Hivemind: A library to train large neural networks across the internet](https://github.com/learning-at-home/hivemind?ref=HackerTabExtension)
 - [Keras: Deep Learning for humans](https://github.com/keras-team/keras?ref=HackerTabExtension)
 - [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days?ref=HackerTabExtension)
+- [Mask R-CNN for Object Detection and Segmentation: This is an implementation of Mask R-CNN on Python 3, Keras, and TensorFlow](https://github.com/matterport/Mask_RCNN?ref=HackerTabExtension)
