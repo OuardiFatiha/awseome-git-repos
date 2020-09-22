@@ -35,3 +35,4 @@
 - [Elasticsearch: A Distributed RESTful Search Engine](https://github.com/elastic/elasticsearch?ref=HackerTabExtension)
 - [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer?ref=HackerTabExtension)
 - [react-query: Hooks for fetching, caching and updating asynchronous data in React](https://github.com/tannerlinsley/react-query?ref=HackerTabExtension)
+- [Payloads All The Things:A list of useful payloads and bypasses for Web Application Security](https://github.com/swisskyrepo/PayloadsAllTheThings?ref=HackerTabExtension)
