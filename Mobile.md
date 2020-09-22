@@ -9,3 +9,4 @@
 - [flutter](https://github.com/flutter/flutter?ref=HackerTabExtension)
 - [radar-covid-android](https://github.com/RadarCOVID/radar-covid-android?ref=HackerTabExtension)
 - [radar-covid-ios](https://github.com/RadarCOVID/radar-covid-ios?ref=HackerTabExtension)
+- [Hero is a library for building iOS view controller transitions.](https://github.com/HeroTransitions/Hero?ref=HackerTabExtension)
