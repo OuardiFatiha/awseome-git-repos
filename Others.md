@@ -27,3 +27,4 @@
 - [connectedhomeip](https://github.com/project-chip/connectedhomeip?ref=HackerTabExtension)
 - [diagrams](https://github.com/mingrammer/diagrams?ref=HackerTabExtension)
 - [Tribuo - A Java prediction library ](https://github.com/oracle/tribuo?ref=HackerTabExtension)
+- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners?ref=HackerTabExtension)
