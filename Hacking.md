@@ -6,3 +6,4 @@
 - [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC?ref=HackerTabExtension)
 - [hacker-scripts ](https://github.com/NARKOZ/hacker-scripts?fbclid=IwAR3q8bwVftjPiXOUcGGhrpmyqTfTwr2c_PmEQFHKdAVQk8JPK-G5ab-0W8E)
 - [Hack-Tools ](https://github.com/LasCC/Hack-Tools?ref=HackerTabExtension)
+- [hacktoberfest-swag-list : Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.](https://github.com/crweiner/hacktoberfest-swag-list?ref=HackerTabExtension)
