@@ -28,3 +28,4 @@
 - [diagrams](https://github.com/mingrammer/diagrams?ref=HackerTabExtension)
 - [Tribuo - A Java prediction library ](https://github.com/oracle/tribuo?ref=HackerTabExtension)
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners?ref=HackerTabExtension)
+- [DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms?ref=HackerTabExtension)
