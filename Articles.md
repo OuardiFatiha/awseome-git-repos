@@ -9,3 +9,4 @@
 - [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 - [Two Books That Turned a 26-Year-Old Programmer Into a Billionaire](https://entrepreneurshandbook.co/two-books-that-turned-a-26-year-old-programmer-into-a-billionaire-8990e52065b1)
 - [How 7 Lines of Code Turned Into a $36 Billion Empire](https://entrepreneurshandbook.co/two-reasons-why-these-7-lines-of-code-turned-into-a-36-billion-empire-6d2b2d1a8da2)
+- [9-productivity-browser-extensions-for-developers](https://medium.com/better-programming/9-productivity-browser-extensions-for-developers-2020-edition-eb84cda6f038)
