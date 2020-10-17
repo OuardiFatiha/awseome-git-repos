@@ -7,3 +7,5 @@
 - [python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition?ref=HackerTabExtension&fbclid=IwAR2beg0L4hlNdufZArA5r15HsLr058w7ujJgc3CtjsSpL4zPnbeX_3_3DEk)
 - [webrtc-for-the-curious: More about protocols and apis](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious?ref=HackerTabExtension)
 - [mlbook: Machine Learning from Scratch ](https://github.com/dafriedman97/mlbook?ref=HackerTabExtension)
+- [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
+- []()
