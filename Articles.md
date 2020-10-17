@@ -10,3 +10,4 @@
 - [Two Books That Turned a 26-Year-Old Programmer Into a Billionaire](https://entrepreneurshandbook.co/two-books-that-turned-a-26-year-old-programmer-into-a-billionaire-8990e52065b1)
 - [How 7 Lines of Code Turned Into a $36 Billion Empire](https://entrepreneurshandbook.co/two-reasons-why-these-7-lines-of-code-turned-into-a-36-billion-empire-6d2b2d1a8da2)
 - [9-productivity-browser-extensions-for-developers](https://medium.com/better-programming/9-productivity-browser-extensions-for-developers-2020-edition-eb84cda6f038)
+- [5 Best Books for Competitive Programming](https://www.geeksforgeeks.org/5-best-books-for-competitive-programming/)
