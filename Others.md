@@ -29,3 +29,4 @@
 - [Tribuo - A Java prediction library ](https://github.com/oracle/tribuo?ref=HackerTabExtension)
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners?ref=HackerTabExtension)
 - [DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms?ref=HackerTabExtension)
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university?fbclid=IwAR0Yc1PDvd9e5626EXJEGHlFQvEJ0vf_TxgCyqROPePoYSCAbjRgkcxR7Dk)
